@@ -13,7 +13,7 @@ final getIt = GetIt.instance;
 
 /// Registering the ApiClient and services
 void setup() {
-  final apiClient = ApiClient(baseUrl: '194.171.191.226:2585');
+  final apiClient = ApiClient(baseUrl: '10.0.2.2:5000');
   getIt.registerSingleton<ExercisesApiService>(ExercisesApiService(apiClient));
   getIt.registerSingleton<EquipmentApiService>(EquipmentApiService(apiClient));
   getIt.registerSingleton<MusclesApiService>(MusclesApiService(apiClient));
