@@ -1,0 +1,52 @@
+[
+    {
+        "id": "chest_press",
+        "name": "Chest Press Machine",
+        "description": "A machine designed to target the pectoral muscles with independent arm movements to improve balance and strength."
+    },
+    {
+        "id": "leg_press",
+        "name": "Leg Press Machine",
+        "description": "A machine that allows you to work the quadriceps, hamstrings, and glutes through a controlled pushing motion."
+    },
+    {
+        "id": "lat_pulldown_machine",
+        "name": "Lat Pulldown Machine",
+        "description": "A machine designed to target the latissimus dorsi muscles with adjustable resistance for pull-down motions."
+    },
+    {
+        "id": "dumbbells",
+        "name": "Dumbbells",
+        "description": "Free weights that allow for a wide range of strength training exercises, targeting various muscle groups."
+    },
+    {
+        "id": "bench",
+        "name": "Classic Bench",
+        "description": "A flat bench designed for a variety of exercises, including bench presses, dumbbell presses, and more."
+    },
+    {
+        "id": "barbell",
+        "name": "Barbell",
+        "description": "A long bar used with weight plates for exercises such as squats, deadlifts, and bench presses, enabling progressive strength training."
+    },
+    {
+        "id": "kettlebell",
+        "name": "Kettlebell",
+        "description": "A cast iron weight with a handle, used for dynamic movements such as swings and Turkish get-ups, as well as strength training exercises."
+    },
+    {
+        "id": "pull_up_bar",
+        "name": "Pull-Up Bar",
+        "description": "A bar used for bodyweight exercises such as pull-ups and chin-ups to strengthen the back and arms."
+    },
+    {
+        "id": "parallel_bars",
+        "name": "Parallel Bars",
+        "description": "Two parallel bars used for exercises such as dips to target the triceps, chest, and shoulders."
+    },
+    {
+        "id": "bodyweight",
+        "name": "Bodyweight",
+        "description": "The use of one's own body as resistance for exercises like push-ups, squats, and planks, ideal for functional strength and flexibility."
+    }
+]

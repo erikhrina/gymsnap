@@ -1,0 +1,67 @@
+[
+    {
+        "id": "chest",
+        "name": "Chest",
+        "description": "Includes the pectoral muscles, responsible for pushing motions such as pressing or pushing exercises."
+    },
+    {
+        "id": "back",
+        "name": "Back",
+        "description": "Primarily consists of the latissimus dorsi, trapezius, and rhomboids, essential for pulling and rowing movements."
+    },
+    {
+        "id": "shoulders",
+        "name": "Shoulders",
+        "description": "Composed of the deltoid muscles, responsible for raising and rotating the arms in various directions."
+    },
+    {
+        "id": "biceps",
+        "name": "Biceps",
+        "description": "Located on the front of the upper arm, these muscles are used in curling and pulling motions."
+    },
+    {
+        "id": "triceps",
+        "name": "Triceps",
+        "description": "Located on the back of the upper arm, these muscles are involved in straightening the arm during pushing exercises."
+    },
+    {
+        "id": "core",
+        "name": "Core",
+        "description": "Comprises the abdominal and oblique muscles, essential for stability, balance, and rotational movements."
+    },
+    {
+        "id": "quadriceps",
+        "name": "Quadriceps",
+        "description": "Located on the front of the thigh, these muscles are responsible for extending the knee and powering leg movements."
+    },
+    {
+        "id": "hamstrings",
+        "name": "Hamstrings",
+        "description": "Located on the back of the thigh, these muscles are involved in bending the knee and extending the hip."
+    },
+    {
+        "id": "glutes",
+        "name": "Glutes",
+        "description": "Composed of the gluteus maximus, medius, and minimus, these muscles provide power for hip extension and stability."
+    },
+    {
+        "id": "calves",
+        "name": "Calves",
+        "description": "Located on the lower leg, these muscles are responsible for ankle extension and supporting walking or running movements."
+    },
+    {
+        "id": "forearms",
+        "name": "Forearms",
+        "description": "These muscles control wrist movements and gripping strength, important for pulling and lifting exercises."
+    },
+    {
+        "id": "traps",
+        "name": "Traps",
+        "description": "The trapezius muscles extend along the upper back and neck, crucial for shoulder shrugging and upper-body stability."
+    },
+    {
+        "id": "lower_back",
+        "name": "Lower Back",
+        "description": "The muscles along the lower spine, crucial for spinal stability, posture, and hip movement."
+    }
+]

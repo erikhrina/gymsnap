@@ -1,0 +1,360 @@
+[
+  {
+    "id": "alt_hammer_curl",
+    "name": "Alternate Hammer Curl",
+    "level": "beginner",
+    "primary_equipment": "dumbbells",
+    "secondary_equipment": null,
+    "primary_muscle": "biceps",
+    "secondary_muscles": [
+      "forearms"
+    ],
+    "instructions": [
+      "Stand upright holding dumbbells at arm's length.",
+      "Curl the right weight forward to shoulder level while contracting your biceps.",
+      "Slowly return to start and repeat with the left arm.",
+      "Alternate arms for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "incline_dumbbell_press",
+    "name": "Incline Dumbbell Press",
+    "level": "beginner",
+    "primary_equipment": "bench",
+    "secondary_equipment": "dumbbells",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Lie on an incline bench with dumbbells held at shoulder width.",
+      "Press the dumbbells upward until arms are extended.",
+      "Lower the dumbbells back to shoulder level.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "level": "beginner",
+    "primary_equipment": "lat_pulldown_machine",
+    "secondary_equipment": null,
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "traps"
+    ],
+    "instructions": [
+      "Sit on the lat pulldown machine and grab the bar with a wide grip.",
+      "Pull the bar to your chest, squeezing your shoulder blades.",
+      "Slowly return to the start.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "leg_press_exercise",
+    "name": "Leg Press",
+    "level": "intermediate",
+    "primary_equipment": "leg_press",
+    "secondary_equipment": null,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit on the leg press machine and place feet shoulder-width apart.",
+      "Push the platform upward, avoiding knee lock.",
+      "Lower the platform back slowly.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "bench_press",
+    "name": "Bench Press",
+    "level": "intermediate",
+    "primary_equipment": "bench",
+    "secondary_equipment": "barbell",
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders"
+    ],
+    "instructions": [
+      "Lie flat on a bench with a barbell over your chest.",
+      "Grip the bar slightly wider than shoulder-width and lift it.",
+      "Lower it to your chest and push back up.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "barbell_deadlift",
+    "name": "Barbell Deadlift",
+    "level": "intermediate",
+    "primary_equipment": "barbell",
+    "secondary_equipment": null,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back",
+      "traps"
+    ],
+    "instructions": [
+      "Stand shoulder-width apart with a barbell in front.",
+      "Bend at hips and knees to grab the bar.",
+      "Lift the bar by extending your hips and knees.",
+      "Lower the bar with control and repeat."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "dumbbell_lunges",
+    "name": "Dumbbell Lunges",
+    "level": "beginner",
+    "primary_equipment": "dumbbells",
+    "secondary_equipment": null,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Hold dumbbells and step forward with one leg.",
+      "Lower your body until the front thigh is parallel to the floor.",
+      "Push through your front foot to return.",
+      "Alternate legs for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "overhead_dumbbell_press",
+    "name": "Overhead Dumbbell Press",
+    "level": "beginner",
+    "primary_equipment": "dumbbells",
+    "secondary_equipment": null,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "instructions": [
+      "Hold dumbbells at shoulder height with palms forward.",
+      "Press the dumbbells upward until arms are extended.",
+      "Lower back to start.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "seated_leg_press",
+    "name": "Seated Leg Press",
+    "level": "beginner",
+    "primary_equipment": "leg_press",
+    "secondary_equipment": null,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Sit on the leg press machine with your feet shoulder-width apart.",
+      "Press the platform forward until your legs are extended.",
+      "Lower it back slowly to the start.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "chest_press_exercise",
+    "name": "Chest Press",
+    "level": "beginner",
+    "primary_equipment": "chest_press",
+    "secondary_equipment": null,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "shoulders",
+      "triceps"
+    ],
+    "instructions": [
+      "Sit on the chest press machine with handles at chest level.",
+      "Push the handles forward until arms are extended.",
+      "Return to the start slowly.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "push_up",
+    "name": "Push-Up",
+    "level": "beginner",
+    "primary_equipment": "bodyweight",
+    "secondary_equipment": null,
+    "primary_muscle": "chest",
+    "secondary_muscles": [
+      "triceps",
+      "shoulders",
+      "core"
+    ],
+    "instructions": [
+      "Start in a plank position with hands slightly wider than shoulder-width.",
+      "Lower your chest towards the floor, keeping elbows close to your body.",
+      "Push back up to the starting position.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "level": "beginner",
+    "primary_equipment": "bodyweight",
+    "secondary_equipment": null,
+    "primary_muscle": "core",
+    "secondary_muscles": [
+      "shoulders",
+      "lower_back"
+    ],
+    "instructions": [
+      "Start in a plank position with your forearms on the ground and elbows under your shoulders.",
+      "Keep your body in a straight line from head to heels.",
+      "Hold the position for the recommended duration."
+    ],
+    "category": "core"
+  },
+  {
+    "id": "kettlebell_swing",
+    "name": "Kettlebell Swing",
+    "level": "intermediate",
+    "primary_equipment": "kettlebell",
+    "secondary_equipment": null,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "core",
+      "shoulders"
+    ],
+    "instructions": [
+      "Stand with feet shoulder-width apart, holding the kettlebell with both hands.",
+      "Hinge at the hips to swing the kettlebell between your legs.",
+      "Drive through your hips to swing it up to shoulder height.",
+      "Let the kettlebell swing back down and repeat."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "pull_up",
+    "name": "Pull-Up",
+    "level": "intermediate",
+    "primary_equipment": "pull_up_bar",
+    "secondary_equipment": null,
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "forearms"
+    ],
+    "instructions": [
+      "Grab the pull-up bar with palms facing away and arms shoulder-width apart.",
+      "Pull your body upward until your chin clears the bar.",
+      "Lower yourself back down with control.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "goblet_squat",
+    "name": "Goblet Squat",
+    "level": "beginner",
+    "primary_equipment": "dumbbell",
+    "secondary_equipment": null,
+    "primary_muscle": "quadriceps",
+    "secondary_muscles": [
+      "glutes",
+      "hamstrings"
+    ],
+    "instructions": [
+      "Hold a dumbbell vertically at chest level with both hands.",
+      "Lower into a squat, keeping your chest up and knees tracking over your toes.",
+      "Push through your heels to stand back up.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "romanian_deadlift",
+    "name": "Romanian Deadlift",
+    "level": "intermediate",
+    "primary_equipment": "barbell",
+    "secondary_equipment": null,
+    "primary_muscle": "hamstrings",
+    "secondary_muscles": [
+      "glutes",
+      "lower_back"
+    ],
+    "instructions": [
+      "Stand with feet shoulder-width apart and hold a barbell in front of your thighs.",
+      "Hinge at your hips to lower the barbell down your legs.",
+      "Keep your back straight and shoulders back.",
+      "Return to standing and repeat."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "overhead_press",
+    "name": "Overhead Press",
+    "level": "intermediate",
+    "primary_equipment": "barbell",
+    "secondary_equipment": null,
+    "primary_muscle": "shoulders",
+    "secondary_muscles": [
+      "triceps"
+    ],
+    "instructions": [
+      "Stand with feet shoulder-width apart, holding a barbell at shoulder height.",
+      "Press the barbell overhead until arms are fully extended.",
+      "Lower it back to shoulder height and repeat."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "bent_over_dumbbell_row",
+    "name": "Bent-Over Dumbbell Row",
+    "level": "beginner",
+    "primary_equipment": "dumbbells",
+    "secondary_equipment": null,
+    "primary_muscle": "back",
+    "secondary_muscles": [
+      "biceps",
+      "rear_deltoids"
+    ],
+    "instructions": [
+      "Hold a dumbbell in each hand and hinge at your hips, keeping your back flat.",
+      "Pull the dumbbells toward your waist, squeezing your shoulder blades together.",
+      "Lower them back down and repeat."
+    ],
+    "category": "strength"
+  },
+  {
+    "id": "tricep_dip",
+    "name": "Tricep Dip",
+    "level": "beginner",
+    "primary_equipment": "parallel_bars",
+    "secondary_equipment": null,
+    "primary_muscle": "triceps",
+    "secondary_muscles": [
+      "chest",
+      "shoulders"
+    ],
+    "instructions": [
+      "Grip the parallel bars and lift yourself up.",
+      "Lower your body by bending your elbows until they reach a 90-degree angle.",
+      "Push back up to the starting position.",
+      "Repeat for the recommended repetitions."
+    ],
+    "category": "strength"
+  }
+]
